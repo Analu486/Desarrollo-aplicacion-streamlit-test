@@ -1,2 +1,2 @@
 # streamlit_test
-CAPITULO 5 SPRINT 7
+Desarrollo de un código python para la ejecución de una aplicación sencilla donde lleva un conteo según la cantidad de clicks donde se desglosan gráficas temporales
